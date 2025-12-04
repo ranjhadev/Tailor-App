@@ -1,10 +1,15 @@
 1. Title
 
 Software Requirements Specification (SRS)
+
 Project: Apna Tailor
+
 Prepared By: Muhammad Ranjha (S22BINFT1M01065)
+
 Submitted To: Ms. Sara Fareed
+
 Department: Information Technology
+
 Faculty of Computing, The Islamia University of Bahawalpur
 
 2. Summary
