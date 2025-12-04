@@ -8,6 +8,7 @@ Department: Information Technology
 Faculty of Computing, The Islamia University of Bahawalpur
 
 2. Summary
+   
 2.1 Background
 
 Apna Tailor is a mobile application developed using Flutter and Hive local database.
